@@ -1,9 +1,9 @@
 /*
 This is a refactored version of the previous file.
 It is a single-file amalgamation of 3 files:
-- coroutine.hpp: the header file for all coroutine and file IO classes
-- coroutine.cpp: the implementation for coroutine classes
-- main.cpp: the main application.
+- final/coroutine.hpp: the header file for all coroutine and file IO classes
+- final/coroutine.cpp: the implementation for coroutine classes
+- final/main.cpp: the main application.
 */
 
 #include <uv.h>
