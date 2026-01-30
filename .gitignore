@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*/*.dSYM/*
+*.dSYM/*
 
 # Compiled Object files
 *.slo
